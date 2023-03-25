@@ -1,0 +1,16 @@
+:root {
+  --text-color: #d3f8f3;
+  --light-bg: #aaeee8;
+  --dark-bg: #1aa8ad;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
